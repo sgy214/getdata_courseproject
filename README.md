@@ -1,7 +1,6 @@
-# Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project
 
 Sunniel Yu
-September 27, 2015
 ========================================
 This file describes how run_analysis.R script works.
 
